@@ -1,0 +1,16 @@
+.jumbotron{
+    color: orange;
+    text-align: center;
+    background: lightgreen;
+}
+img{
+   width: 1000px;
+}
+
+body{
+    background-color: #3ac9b4;
+}
+
+#description{
+    background-color: green;
+}
